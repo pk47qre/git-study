@@ -89,7 +89,7 @@ origin的dev分支到本地）
 		git rm --cached [filename]	停止追踪文件，但该文件会保留在工作区(untracked状态)
  
 
-- git 
+- git diff
 
 
 
